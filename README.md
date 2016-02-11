@@ -7,6 +7,8 @@
 
 Documentation for Vidi: Insights
 
+- __Work in progress__ This module is currently a work in progress.
+
 ## Contributing
 The [Vidi: Insights org][Org] encourages __open__ and __safe__ participation.
 
